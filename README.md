@@ -2,6 +2,7 @@ Hi there, I'm G.Preetam Vamsi 👋
 Welcome to my GitHub profile! I'm an Undergrad | Passionate ML Engineer who’s on a mission to build creative, impactful tech with purpose.
 
 Email - gollapalli.preethamvamshi2006@gmail.com
+
 Linkedin - https://www.linkedin.com/in/gollapalli-preetam-vamsi-696827292/?originalSubdomain=in
 
 🚀 **About Me**
